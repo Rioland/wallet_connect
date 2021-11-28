@@ -1,0 +1,4 @@
+[28-Nov-2021 21:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mywallet/public_html/mywallet/index.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/mywallet/public_html/mywallet/index.php on line 185
