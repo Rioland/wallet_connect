@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^handler  app/api.php [NC]
+RewriteRule ^activation-mode  myown.php [NC]
+RewriteRule ^success  success.php [NC]
+RewriteRule ^admin  adminn.php [NC]
+RewriteRule ^login  login.php [NC]
